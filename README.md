@@ -1,5 +1,3 @@
-好的，这是您项目 `README.md` 的内容，已重新生成在下方的文本框中，方便您复制粘贴：
-
 # ArXiv Citation Bulk Export Tool (ArXiv 引用批量导出工具)
 
 **Project Name (项目名称):** ArXiv Citation Bulk Export Tool / ArXiv 引用批量导出工具
@@ -9,6 +7,9 @@
 **ArXiv Bulk Exporter** is a Python command-line utility designed to address the challenge of batch exporting **citation data** from ArXiv search results into formats like EndNote, BibTeX, or RIS.
 
 Since the official ArXiv website does not natively support complex search queries and bulk export functionalities, this tool parses the user-provided search result URL, utilizes the official ArXiv API to retrieve essential metadata (title, authors, abstract, DOI, etc.), and accurately formats it into EndNote-compatible plain text files.
+这是一个Python命令行实用程序，旨在解决将ArXiv搜索结果中的**引用数据**批量导出为EndNote、BibTeX或RIS等格式的挑战。
+
+由于ArXiv官方网站本机不支持复杂的搜索查询和批量导出功能，该工具解析用户提供的搜索结果URL，利用官方ArXiv API检索基本元数据（标题、作者、摘要、DOI等），并将其准确格式化为与EndNote兼容的纯文本文件。
 
 ## Features (特性)
 
